@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667468853 source:d:\codes 3\byte_stuffing\main.c
+	<stdio.h>
+	<string.h>
+
